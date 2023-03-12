@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-    <img align="right" alt="Coding" height="250" width="400" src="[https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif](https://miro.medium.com/v2/resize:fit:440/1*QslNUCa4Bj8xZWmhdGmHyg.gif)">
+    <img align="right" alt="Coding" height="250" width="400" src="https://miro.medium.com/v2/resize:fit:440/1*QslNUCa4Bj8xZWmhdGmHyg.gif">
 </div>
 
 "𝑻𝒉𝒆 𝒐𝒏𝒍𝒚 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝒂 𝒓𝒊𝒄𝒉 𝒑𝒆𝒓𝒔𝒐𝒏 𝒂𝒏𝒅 𝒂 𝒑𝒐𝒐𝒓 𝒑𝒆𝒓𝒔𝒐𝒏 𝒊𝒔 𝒘𝒉𝒂𝒕 𝒕𝒉𝒆𝒚 𝒅𝒐 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒔𝒑𝒂𝒓𝒆 𝒕𝒊𝒎𝒆." - 𝑹𝒐𝒃𝒆𝒓𝒕 𝑲𝒊𝒚𝒐𝒔𝒂𝒌𝒊
